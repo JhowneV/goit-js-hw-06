@@ -16,4 +16,5 @@ document.querySelector('.login-form').addEventListener('submit', function(event)
 
     console.log(formData);
     document.querySelector('.login-form').reset();
-  });
+});
+  
